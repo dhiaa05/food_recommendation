@@ -97,7 +97,7 @@
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="sportive" class="col-md-4 col-form-label text-md-right">{{ __('sportive') }}</label>
+                            <label for="sportive" class="col-md-4 col-form-label text-md-right">{{ __('Big effort??') }}</label>
 
                             <div class="col-md-6 row">
                                <div class="col-sm-6">
